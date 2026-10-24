@@ -1,65 +1,49 @@
-<div align="center">
-  <img src="images/hackerman.gif" alt="hackerman">
-</div>
+
 <h1 align="center">👋 Hello! Saluton! Привет! Паща о̄лэн!</h1>
 
-<h3 align="center">I'm learning C#, love languages ​​and beer!</h3>
+<h3 align="center">Learning C#, exploring languages, and loving beer (in theory)!</h3>
 
 ---
 
 ### 🍻 Who am I and why?
-I’m a Mansi enthusiast, language learner, and beginner developer.  
-I’m focused on minority languages, creative tools, and experimental recording.
 
-Contact: beeressence@gmail.com
+I'm a language learner and beginner developer interested in minority languages, creative tools, and experimental recording.
+
+Contact: [beeressence@gmail.com](mailto:beeressence@gmail.com)
 
 ---
 
 ### 😎 More About Me
-- Studying **Mansi language and culture**
-- Exploring artificial, Finno-Ugric, and other minority languages
-- Learning IT and building useful tools
-- Experimenting with recording devices and sound
-- Fun fact: I say I love beer, but I've never actually drunk it  
+
+- Exploring constructed, Finno-Ugric, and other minority languages
+- Collecting and organizing language resources
+- Experimenting with field recording, microphones, portable recorders, and other unusual gear
+- Fun fact: I say I love beer, but I've never actually drunk it
 
 ---
 
-### 🌲 Mansi Language & Culture Project
-I’m Mansi by origin and deeply interested in preserving my people's language and traditions.
+### 🌲 Mansi Language & Culture
 
-I collect dictionaries, grammar materials, and folklore from different Mansi dialects and aim to turn them into usable digital resources.
+I'm Mansi, and I'm deeply interested in my people's language and culture. I collect and organize dictionaries, grammar materials, folklore, and other resources across Mansi dialects, hoping to make them easier to discover and use.
 
-Planned projects:
-- Multilingual dictionary of Mansi dialects  
-- Small useful programs for language learning  
-- Archive of materials on minor and endangered languages
-
-
-Let me know if you're interested or want to collaborate!
-
----
-
-### ⚙️ Tools & Skills
-- **Code:** C#  
-- **Markup:** HTML, XHTML, XML, XAML, Markdown  
-- **Databases:** SQL, SQLite  
-- **E-books:** EPUB, FB2  
-- **Recording:** microphones, geophone, infrared filter, experimental gear  
-
----
-
-### 🎨 Personal & Hobbies
-- 👨‍💻 Programming  
-- 📷 Photography  
-- 🎙️ Field recording  
-- ⚱️ Clay modeling  
-- 📚 Languages
+This interest also extends to other lesser-resourced languages, where valuable materials are often scattered across small communities or difficult to find.
 
 ---
 
 ### 📌 Featured Repositories
-- [mansi-memes](https://github.com/avyscriptum/mansi-memes) — memes in Mansi
+
+- **[mansi-memes](https://github.com/avysmorfias/mansi-memes)** — A collection of memes in the Mansi language, bringing Mansi words and expressions into modern internet culture.
+- **[GlossAstra](https://github.com/avysmorfias/GlossAstra)** — A curated catalog of language resources, with a focus on lesser-resourced languages and hard-to-find materials.
 
 ---
 
-![winzip](images/winzip.gif) ![Internet explorer](images/iexplorer.gif) ![Windows meadia player](images/mediawindowsdownload.gif) ![notepad](images/notepad.gif) ![html](images/html.png) ![css](images/css.png) ![netscape](images/netscape.gif) ![ISQ](images/icq.gif) ![AcrobatReader](images/acrobatReader.gif)
+### ⚙️ Things I Tinker With
+
+- **Code & Markup:** C#, HTML, XHTML, XML, XAML, Markdown
+- **Data & Databases:** JSON, SQL, SQLite
+- **Digital Publishing:** EPUB, FB2, ebook layout, and technical documentation
+- **Field Recording:** microphones, portable recorders, geophone, infrared filters, and experimental gear
+
+---
+
+![WinZip](images/winzip.gif) ![Internet Explorer](images/iexplorer.gif) ![Windows Media Player](images/mediawindowsdownload.gif) ![Notepad](images/notepad.gif) ![HTML](images/html.png) ![CSS](images/css.png) ![Netscape](images/netscape.gif) ![ICQ](images/icq.gif) ![Acrobat Reader](images/acrobatReader.gif)
